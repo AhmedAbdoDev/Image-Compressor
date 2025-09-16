@@ -11,6 +11,7 @@ const Header = () => {
               <a
                 href="https://ahmedabdodev.github.io/Portfolio"
                 className="hover:text-blue-400 transition-colors"
+                target="_blank"
               >
                 Portfolio
               </a>
